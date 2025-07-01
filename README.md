@@ -1,6 +1,6 @@
 # Dashboard de Gráficos
 
-![Dashboard em Funcionamento](/preview.png)
+Dashboard em Funcionamento: https://github.com/Coimbraitalo01/dashboard-graficos/blob/main/public/preview.png
 
 ## Tecnologias
 - React + Vite
