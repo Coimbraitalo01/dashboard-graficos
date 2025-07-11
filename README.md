@@ -1,20 +1,29 @@
-# Dashboard de Gráficos
+# 📊 Dashboard de Gráficos Interativos
 
-Dashboard em Funcionamento: https://github.com/Coimbraitalo01/dashboard-graficos/blob/main/public/preview.png
+![Dashboard de Gráficos](https://raw.githubusercontent.com/Coimbraitalo01/dashboard-graficos/main/public/preview.png?raw=true)
 
-## Tecnologias
-- React + Vite
-- Recharts
-- CSS moderno
+Visualização de dados com gráficos dinâmicos construídos com React e Recharts.
 
-## Como Executar
+🔗 [Acesse o projeto online](https://coimbraitalo01.github.io/dashboard-graficos/)
+
+## ✨ Funcionalidades
+
+- Gráficos de barras, linhas e pizza interativos
+- Filtros de período personalizáveis
+- Responsivo para desktop e mobile
+- Dark/light mode
+- Atualização de dados em tempo real
+
+## 🛠️ Tecnologias Utilizadas
+
+- ⚛️ React 18
+- ⚡ Vite 5
+- 📊 Recharts (biblioteca de visualização)
+- 🎨 CSS Modules + Variáveis CSS
+- 📦 React Icons
+
+## 🚀 Como Executar
+
+1. Clone o repositório:
 ```bash
-npm install
-npm run dev
-```
-
-## Dados Exemplares
-| Mês | Vendas | Meta |
-|-----|--------|------|
-| Jan | R$ 4.000 | R$ 3.000 |
-| Fev | R$ 6.800 | R$ 5.000 |
+git clone https://github.com/Coimbraitalo01/dashboard-graficos.git
